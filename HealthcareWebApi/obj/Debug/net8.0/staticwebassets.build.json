@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aOex90EZ+7N74PzwIIpJZVrpWkdNrimxwv3YM3aYagE=",
+  "Source": "HealthcareWebApi",
+  "BasePath": "_content/HealthcareWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
