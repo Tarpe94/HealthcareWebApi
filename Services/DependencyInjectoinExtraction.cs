@@ -7,11 +7,10 @@ namespace Services
 {
     public static class DependencyInjectoinExtraction
     {
-        public static void ConfigureServices(this IServiceCollection services, string connectionString)
+        public static void ConfigureRepositires(this IServiceCollection services, string connectionString)
         {
-            services.ConfigureRepositories(connectionString);
-            services.AddScoped<IUserService, UserService>();
-
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.ConfigureDatabase(connectionString);
         }
     }
 }

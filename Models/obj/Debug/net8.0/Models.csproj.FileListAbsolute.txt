@@ -29,3 +29,4 @@ C:\Projects\HealthcareWebApi\Models\obj\Debug\net8.0\ref\Models.dll
 C:\Projects\HealthcareWebApi\Models\bin\Debug\net8.0\Shared.dll
 C:\Projects\HealthcareWebApi\Models\bin\Debug\net8.0\Shared.pdb
 C:\Projects\HealthcareWebApi\Models\obj\Debug\net8.0\Models.csproj.Up2Date
+C:\Projects\HealthcareWebApi\Models\obj\Debug\net8.0\Models.sourcelink.json

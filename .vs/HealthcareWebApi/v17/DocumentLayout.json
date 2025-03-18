@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\HealthcareWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D94D4F7A-28BC-4453-AD2A-CC7A3709B6D8}|Services\\Services.csproj|c:\\projects\\healthcarewebapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94D4F7A-28BC-4453-AD2A-CC7A3709B6D8}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185FF72-E2F0-4143-8088-7C29B6741C7D}|HealthcareWebApi\\HealthcareWebApi.csproj|c:\\projects\\healthcarewebapi\\healthcarewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D185FF72-E2F0-4143-8088-7C29B6741C7D}|HealthcareWebApi\\HealthcareWebApi.csproj|solutionrelative:healthcarewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185FF72-E2F0-4143-8088-7C29B6741C7D}|HealthcareWebApi\\HealthcareWebApi.csproj|c:\\projects\\healthcarewebapi\\healthcarewebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D185FF72-E2F0-4143-8088-7C29B6741C7D}|HealthcareWebApi\\HealthcareWebApi.csproj|solutionrelative:healthcarewebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185FF72-E2F0-4143-8088-7C29B6741C7D}|HealthcareWebApi\\HealthcareWebApi.csproj|c:\\projects\\healthcarewebapi\\healthcarewebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D185FF72-E2F0-4143-8088-7C29B6741C7D}|HealthcareWebApi\\HealthcareWebApi.csproj|solutionrelative:healthcarewebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185FF72-E2F0-4143-8088-7C29B6741C7D}|HealthcareWebApi\\HealthcareWebApi.csproj|c:\\projects\\healthcarewebapi\\healthcarewebapi\\outgoingdtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D185FF72-E2F0-4143-8088-7C29B6741C7D}|HealthcareWebApi\\HealthcareWebApi.csproj|solutionrelative:healthcarewebapi\\outgoingdtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185FF72-E2F0-4143-8088-7C29B6741C7D}|HealthcareWebApi\\HealthcareWebApi.csproj|c:\\projects\\healthcarewebapi\\healthcarewebapi\\outgoingdtos\\user\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D185FF72-E2F0-4143-8088-7C29B6741C7D}|HealthcareWebApi\\HealthcareWebApi.csproj|solutionrelative:healthcarewebapi\\outgoingdtos\\user\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185FF72-E2F0-4143-8088-7C29B6741C7D}|HealthcareWebApi\\HealthcareWebApi.csproj|c:\\projects\\healthcarewebapi\\healthcarewebapi\\outgoingdtos\\auth\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D185FF72-E2F0-4143-8088-7C29B6741C7D}|HealthcareWebApi\\HealthcareWebApi.csproj|solutionrelative:healthcarewebapi\\outgoingdtos\\auth\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94D4F7A-28BC-4453-AD2A-CC7A3709B6D8}|Services\\Services.csproj|c:\\projects\\healthcarewebapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94D4F7A-28BC-4453-AD2A-CC7A3709B6D8}|Services\\Services.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185FF72-E2F0-4143-8088-7C29B6741C7D}|HealthcareWebApi\\HealthcareWebApi.csproj|c:\\projects\\healthcarewebapi\\healthcarewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D185FF72-E2F0-4143-8088-7C29B6741C7D}|HealthcareWebApi\\HealthcareWebApi.csproj|solutionrelative:healthcarewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\HealthcareWebApi\\HealthcareWebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HealthcareWebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\HealthcareWebApi\\HealthcareWebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HealthcareWebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:14:21.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Projects\\HealthcareWebApi\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "C:\\Projects\\HealthcareWebApi\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwC8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:48:23.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Projects\\HealthcareWebApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Projects\\HealthcareWebApi\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA6wCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:45:34.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Projects\\HealthcareWebApi\\HealthcareWebApi\\OutgoingDtos\\Auth\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "HealthcareWebApi\\OutgoingDtos\\Auth\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Projects\\HealthcareWebApi\\HealthcareWebApi\\OutgoingDtos\\Auth\\LoginResponseDto.cs",
+              "RelativeToolTip": "HealthcareWebApi\\OutgoingDtos\\Auth\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:14:58.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Projects\\HealthcareWebApi\\HealthcareWebApi\\OutgoingDtos\\Auth\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "HealthcareWebApi\\OutgoingDtos\\Auth\\AutoMapper.cs",
+              "ToolTip": "C:\\Projects\\HealthcareWebApi\\HealthcareWebApi\\OutgoingDtos\\Auth\\AutoMapper.cs",
+              "RelativeToolTip": "HealthcareWebApi\\OutgoingDtos\\Auth\\AutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:14:48.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Projects\\HealthcareWebApi\\HealthcareWebApi\\OutgoingDtos\\User\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "HealthcareWebApi\\OutgoingDtos\\User\\AutoMapper.cs",
+              "ToolTip": "C:\\Projects\\HealthcareWebApi\\HealthcareWebApi\\OutgoingDtos\\User\\AutoMapper.cs",
+              "RelativeToolTip": "HealthcareWebApi\\OutgoingDtos\\User\\AutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:14:34.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\HealthcareWebApi\\HealthcareWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "HealthcareWebApi\\appsettings.json",
+              "ToolTip": "C:\\Projects\\HealthcareWebApi\\HealthcareWebApi\\appsettings.json",
+              "RelativeToolTip": "HealthcareWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T17:50:54.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Projects\\HealthcareWebApi\\HealthcareWebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HealthcareWebApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Projects\\HealthcareWebApi\\HealthcareWebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HealthcareWebApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:46:47.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\HealthcareWebApi\\HealthcareWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "HealthcareWebApi\\Program.cs",
+              "ToolTip": "C:\\Projects\\HealthcareWebApi\\HealthcareWebApi\\Program.cs",
+              "RelativeToolTip": "HealthcareWebApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:03:41.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -144,3 +144,14 @@ C:\Projects\HealthcareWebApi\HealthcareWebApi\obj\Debug\net8.0\refint\Healthcare
 C:\Projects\HealthcareWebApi\HealthcareWebApi\obj\Debug\net8.0\HealthcareWebApi.pdb
 C:\Projects\HealthcareWebApi\HealthcareWebApi\obj\Debug\net8.0\HealthcareWebApi.genruntimeconfig.cache
 C:\Projects\HealthcareWebApi\HealthcareWebApi\obj\Debug\net8.0\ref\HealthcareWebApi.dll
+C:\Projects\HealthcareWebApi\HealthcareWebApi\obj\Debug\net8.0\HealthcareWebApi.sourcelink.json
+C:\Projects\HealthcareWebApi\HealthcareWebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Projects\HealthcareWebApi\HealthcareWebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\HealthcareWebApi\HealthcareWebApi\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Projects\HealthcareWebApi\HealthcareWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\HealthcareWebApi\HealthcareWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\HealthcareWebApi\HealthcareWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\HealthcareWebApi\HealthcareWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\HealthcareWebApi\HealthcareWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\HealthcareWebApi\HealthcareWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\HealthcareWebApi\HealthcareWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

@@ -5,7 +5,8 @@ namespace Repository
 {
     public interface IUserRepository
     {
-        Task<IUser?> GetById(long id);
+        Task<IUser?> GetByIdAsync(long id);
         Task CreateUserAsync(User user);
+        Task<IUser?> GetByEmailAsync(string email);
     }
 }

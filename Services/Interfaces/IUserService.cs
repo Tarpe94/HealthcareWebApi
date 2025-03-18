@@ -12,5 +12,7 @@ namespace Services.Interfaces
     {
         Task<IUser> GetById(long id);
         Task CreateUserAsync(IncomingUserDto user);
+
+        Task<ITokenResponse> LoginUserAsync(string email, string password);
     }
 }

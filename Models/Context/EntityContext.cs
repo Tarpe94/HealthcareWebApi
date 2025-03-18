@@ -16,6 +16,7 @@ using Models.EntityModels.Roles;
 using Models.EntityModels.Specializations;
 using Models.EntityModels.UserRoles;
 using Models.EntityModels.Users;
+using Models.EntityModels.UserToken;
 
 namespace Models.Context
 {
@@ -32,6 +33,7 @@ namespace Models.Context
         public DbSet<Specialization> Specializations { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<UserRole> UserRoles { get; set; }
+        public DbSet<UserToken> UserToken { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

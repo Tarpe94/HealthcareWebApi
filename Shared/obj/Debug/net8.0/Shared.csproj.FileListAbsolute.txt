@@ -20,3 +20,4 @@ C:\Projects\HealthcareWebApi\Shared\obj\Debug\net8.0\Shared.dll
 C:\Projects\HealthcareWebApi\Shared\obj\Debug\net8.0\refint\Shared.dll
 C:\Projects\HealthcareWebApi\Shared\obj\Debug\net8.0\Shared.pdb
 C:\Projects\HealthcareWebApi\Shared\obj\Debug\net8.0\ref\Shared.dll
+C:\Projects\HealthcareWebApi\Shared\obj\Debug\net8.0\Shared.sourcelink.json

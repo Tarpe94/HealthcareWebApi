@@ -6,10 +6,11 @@ using System.Text;
 using System.Threading.Tasks;
 using Models.EntityModels.RolePermissions;
 using Models.EntityModels.UserRoles;
+using Shared.Interfaces;
 
 namespace Models.EntityModels.Roles
 {
-    public class Role
+    public class Role : IRole
     {
         [Key]
         public long Id { get; set; }

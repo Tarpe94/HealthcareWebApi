@@ -6,7 +6,7 @@ namespace Repository
 {
     public static class DependencyInjectionExtraction
     {
-        public static void ConfigureRepositories(this IServiceCollection services, string connectionString)
+        public static void ConfigureDatabase(this IServiceCollection services, string connectionString)
         {
             services.AddDbContext<EntityContext>(options =>
             {
@@ -14,7 +14,6 @@ namespace Repository
                 options.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
 
             });
-            services.AddScoped<IUserRepository, UserRepository>();
 
         }
     }

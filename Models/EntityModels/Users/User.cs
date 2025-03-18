@@ -22,6 +22,7 @@ namespace Models.EntityModels.Users
         public string LastName { get; set; }
         public DateTime? Bhirtday { get; set; }
         public Doctor Doctor { get; set; }
-        public ICollection<UserRole> UserRoles { get; set; }
+        public List<UserRole> UserRoles { get; set; }
+        List<IUserRole> IUser.UserRoles => UserRoles.ToList<IUserRole>();
     }
 }

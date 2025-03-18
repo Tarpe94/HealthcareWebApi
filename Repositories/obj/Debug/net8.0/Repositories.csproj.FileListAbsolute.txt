@@ -26,3 +26,4 @@ C:\Projects\HealthcareWebApi\Repositories\bin\Debug\net8.0\Models.pdb
 C:\Projects\HealthcareWebApi\Repositories\bin\Debug\net8.0\Shared.pdb
 C:\Projects\HealthcareWebApi\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
 C:\Projects\HealthcareWebApi\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Projects\HealthcareWebApi\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
